@@ -1,0 +1,6 @@
+DEque
+-- deque in c using linked list
+-- https://www.codesdope.com/blog/article/making-a-queue-using-linked-list-in-c/
+-- https://www.geeksforgeeks.org/implementation-deque-using-doubly-linked-list/
+-- http://see-programming.blogspot.com/2013/02/double-ended-queue-dequeue.html
+

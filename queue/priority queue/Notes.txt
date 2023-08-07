@@ -1,0 +1,7 @@
+pritority queue
+-- https://prepinsta.com/c-program/implementation-of-priority-queue-using-linked-list/
+-- https://www.programiz.com/dsa/priority-queue
+-- https://www.geeksforgeeks.org/how-to-implement-priority-queue-using-heap-or-array/
+-- https://www.geeksforgeeks.org/priority-queue-using-linked-list/
+
+
