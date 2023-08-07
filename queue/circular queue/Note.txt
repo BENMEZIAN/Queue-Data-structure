@@ -1,15 +1,1 @@
-circular queue using linked list in c
--- https://www.faceprep.in/data-structures/circular-queue-using-arrays-and-linked-lists/
--- https://prepinsta.com/c-program/circular-queue-using-linked-list/
--- https://www.geeksforgeeks.org/circular-linked-list-implementation-of-circular-queue/
 
-print circular linked list in c
--- https://www.javatpoint.com/program-to-create-and-display-a-circular-linked-list
--- https://www.geeksforgeeks.org/introduction-to-circular-queue/
-
-Applications of Queue Data Structure
--- https://www.geeksforgeeks.org/applications-of-queue-data-structure/?ref=ml_lbp
-
-
--------------------------------------------------------------------------------
-https://edurank.org/uni/university-of-sciences-and-technology-houari-boumediene/
